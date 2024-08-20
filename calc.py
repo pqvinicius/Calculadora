@@ -1,3 +1,6 @@
+
+Print("BEM VINDO A CALCULADORA!")
+
 def soma(a, b):
     return a + b
 
